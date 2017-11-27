@@ -1,0 +1,4 @@
+1,szybkie wysycenie,powolne wysycyenie
+2,zmiana miejscowa,zmiana rozsiana
+3,dobrze odgraniczona,zle odgraniczona
+4,zle unaczyniona,dobrze unaczyniona

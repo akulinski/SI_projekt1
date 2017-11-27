@@ -1,0 +1,12 @@
+1,szybkie wysycenie kontrastowe,tak,nie
+2,zmiana dobrze odgraniczona,tak,nie
+3,zmiana miejscowa,tak,nie
+4,zmiana policykliczna,tak,nie
+5,zle odgraniczona,tak,nie
+6,rozsiana,tak,nie
+7,wzmoznienie w fazie mi¹¿szowej,tak,nie
+8,dobre unaczynienie,tak,nie
+9,zle unaczynienie,tak,nie
+10,rozpad wewnetrzny,tak,nie
+11,powolne wysycenie,tak,nie
+12,rak,szybkie wysycenie kontrastowe,,zmiana policykliczna
