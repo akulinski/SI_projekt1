@@ -15,7 +15,7 @@ int main()
     d1.result();
     d1.printAns();
     cout<<"-----------------------------------------------------------------------------------"<<endl;
-    cout<<"------------------------------------WNIOSKOWANIE W TYŁ-----------------------------"<<endl;
+    cout<<"------------------------------------WNIOSKOWANIE W TYl-----------------------------"<<endl;
     cout<<"------------------------------------WPROWADZ NAZWE ZMIENNEJ KTORA CHCESZ WNIOSKOWAC"<<endl;
     string x;
     do{
